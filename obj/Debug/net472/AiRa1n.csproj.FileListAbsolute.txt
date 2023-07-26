@@ -1,0 +1,87 @@
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\VestaRa1n.exe.config
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\VestaRa1n.exe
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\VestaRa1n.pdb
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\Guna.UI2.dll
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\iMobileDevice-net.dll
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\LibMobileDevice.dll
+C:\Users\xcracker\Desktop\checkr1n\bin\Debug\net472\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.csproj.AssemblyReference.cache
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.csproj.SuggestedBindingRedirects.cache
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\ns1.Class1.resources
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\ns2.Form1.resources
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.csproj.GenerateResource.cache
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.csproj.CoreCompileInputs.cache
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.csproj.CopyComplete
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.exe
+C:\Users\xcracker\Desktop\checkr1n\obj\Debug\net472\VestaRa1n.pdb
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\VestaRa1n.exe.config
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\VestaRa1n.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\VestaRa1n.pdb
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\DeviceProgramming.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\Guna.Charts.WinForms.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\Guna.UI2.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\iMobileDevice-net.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\LibUsbDfu.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\bz2.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\getopt.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\iconv-2.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevice_id.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceactivation.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceactivation.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicebackup.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicebackup2.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicecrashreport.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicedate.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicedebug.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicedebugserverproxy.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicediagnostics.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceenterrecovery.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceimagemounter.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceinfo.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceinstaller.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicename.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicenotificationproxy.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicepair.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ideviceprovision.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicerestore.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicescreenshot.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\idevicesyslog.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\imobiledevice-net-lighthouse.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\imobiledevice.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\ios_webkit_debug_proxy.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\iproxy.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\irecovery.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\irecovery.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libcrypto-1_1-x64.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libcurl.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libssl-1_1-x64.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libusb-1.0.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libusb0.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\libxml2.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\lzma.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\pcre.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\pcreposix.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\plist.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\plist_cmp.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\plist_test.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\plistutil.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\pthreadVC3.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\readline.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\usbmuxd.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\usbmuxd.exe
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\vcruntime140.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\zip.dll
+C:\Users\Administrator\Desktop\checkra1n code\bin\Debug\net472\zlib1.dll
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\ns1.Class1.resources
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\ns2.Form1.resources
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.csproj.CopyComplete
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.exe
+C:\Users\Administrator\Desktop\checkra1n code\obj\Debug\net472\VestaRa1n.pdb
